@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         
         <p>
-          <code>Changes made in React file</code> 
+          <code>Changes made in React file . </code> 
         </p>
         
       </header>
